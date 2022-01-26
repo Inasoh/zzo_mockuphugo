@@ -1,6 +1,6 @@
-logoText = "News 2022"
+logoText = "Get Mockups Daily"
 logoType = "short" # long, short
-description = "Shuriken 4 Hugo."
+description = "mockups."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
