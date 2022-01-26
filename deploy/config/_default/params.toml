@@ -101,7 +101,7 @@ busuanziPagePV = true
 
 # rss
 updatePeriod = "daily" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
-updateFrequency = ""
+updateFrequency = "daily"
 fullContents = false
 
 # comment
