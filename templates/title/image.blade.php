@@ -1,0 +1,1 @@
+{{rand(7,20)}}+ {{ mb_ucwords($post->keyword) }} [Comfortable|Modern|Delicious|Whimsical|Useful|Most Excellent|Awesome|Stylish|Memorable|Awesome|Popular|Popular|Happy|Most Important|Excellent|Wonderful|Best|Top Rated|Most Valued|Latest News|Most Effective|Most Popular|Popular]
